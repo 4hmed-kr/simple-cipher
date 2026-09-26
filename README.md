@@ -24,7 +24,7 @@ Because the keys are generated randomly each time you encrypt, **you must save k
 Clone the repo and run the script:
 
 ```bash
-git clone https://github.com/your-username/simple-cipher.git
+git clone https://github.com/4hmed-kr/simple-cipher.git
 cd simple-cipher
 python3 encryption.py
 ```
